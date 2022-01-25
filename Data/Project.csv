@@ -1,0 +1,551 @@
+ProjectID,ProjectPhone,ProjectAddress
+1,,"705 N. 550 E.Lafayette, IN. 47905"
+2,,"3800 Maplewood Dr.Lafayette, IN 47905"
+3,765-497-7637,"3331 Putnam StreetWest Lafayette, IN.  47906"
+4,,"50 Sunrise Dr.Lafayette,IN. 47904"
+5,574-967-4442,"47 W 625 S.Lafayette, IN. 47909"
+6,463-7374,"1308 West Minster VillageBuilding ""A"""
+7,,"6634 W. 300 S.Delphi, In.  46923-9371"
+8,,"Lafayette, IN. 47909"
+9,,"11149 Anderson Rd.Granger, IN 46530"
+10,,"5144 Stable Dr.Lafayette, In.  47905"
+11,317-460-0912,"5908 N Dearborn St,Indianapolis, IN. 46220"
+12,463-9491,"3203 Elkcart St.West Lafayette, Inl  47906"
+13,,"320 N. Brookfield Dr.Lafayette, IN. 47905"
+14,281-828-9790,"#41 Hunter's RidgeLafayette, IN.  47909"
+15,765-414-1790,"1813 East 50 NorthFlora, IN 46929"
+16,,
+17,765-426-7317,3300 W 450 N West Lafayette IN 47906
+18,,
+19,,"11638 Raymond Ave.St. Louis, MO.  63138"
+20,765-762-1427,"302 N. Perry StreetAttica, In.  47918"
+21,,"P.O. Box 41Chalmers, In.  47929"
+22,765-566-3853,"30 S. State rd. 29Flora, In.  46929"
+23,,
+24,,
+25,,"216 Vermont StlLafayette, IN. 47905"
+26,,
+27,,"426 Forest HillWest Lafayette, IN. 47906"
+28,,7810 E. 900 S.Lafayette In.  47905
+29,447-9575,"115 Harvest Dr. W.Lafayette, In.  47905"
+30,,"845 AlydayWest Lafayette, In.  47906"
+31,,"5171 W. 750 S.Rossville, IN.  46065"
+32,743-2605,"1206 HayesWest Lafayette, In.  47906"
+33,,
+34,,"2410 Silverado Cir.Lafayette, IN 47909"
+35,,"2410 Silverado Cir.Lafayette, IN 47909"
+36,447-7881,"913 Lazy LaneLafayette, In 47904"
+37,463-5899,"3322 Crawford St.West Lafayette, In.  47906"
+38,,"Bentinganan-Leslie & VictorArbor Chase Subdivision, West Lafayette"
+39,,"           Mohican CourtWest Lafayette, In. 47906"
+40,,
+41,765-428-2260,"94 Steeplechase Ct.Lafayette, In.  47905"
+42,765-448-6000,"9 Farabee Ct.Lafayette, IN.  47909"
+43,,
+44,,"1728 S. 14th St.Lafayette, In.  47905"
+45,,"216 Farabee Dr.Lafayette, In.  47905"
+46,,"4532 Foxmoor LaneLafayette, In.  47905"
+47,429-4829,"4532 Foxmoor LaneLafayette, In.  47905"
+48,,"8802 North Meridian St.Indianapolis, IN. 46260"
+49,474-4304,"3563 CanterburyLafayette, In.  47909"
+50,,
+51,,"5641 N.. 225 W.West Lafayette, IN. 47906"
+52,,PO Box 172713 Pearl St.
+53,,"6001 E. Pierce Rd.Monticello, In.  47960"
+54,420-7020,"516 Mian Street, Suite HLafayette, In.  47901"
+55,765-583-3536,"105 Bennett RoadLinden, IN 47955"
+56,765-269-7135,"4312 S. River Rd.West Lafayette, In  47906"
+57,,"4300 Zanik LaneLafayette, IN. 47909"
+58,,"3 Tall Oak LaneWest Lafayette, IN. 47906"
+59,,
+60,765-379-2673,"35 Rainbow DriveRossville, In 765-379-2673"
+61,,2230 Northbridge Dr.
+62,,"6819 S. 800 W.Rossville, In.  46065"
+63,,"6704 W.700 S.Rossville, In.  46065"
+64,742-7753,"3916 Gate Rd.Lafayette, In.  47905"
+65,765-385-2570,"2898 St. Rd. East 352Oxford, In.  47971"
+66,,"724 Northridge Ave.West Lafayette, In. 47906"
+67,4741805,"1935 Windy Hill Ct.Lafayette, In.  47905"
+68,765-413-0894,"3728 Tesla Dr.West Lafayette, IN. 47906"
+69,,
+70,765-714-6930,Angel Caballero1801 Main St
+71,583-3061,"6617 St. Rd. 26 WWest Lafayette, In.  47906"
+72,589-9273,"6720 Ripple Creek Dr.Lafayette, In  47905"
+73,,
+74,,"2540 Nottingham Pl.West Lafayette, IN.  47906"
+75,,"West Lafayette, IN. 47906"
+76,,"923 N. Salsbury St.West Lafayette, IN 47906"
+77,,
+78,,"3012 WilshireWest Lafayette, In.  47906"
+79,,3212 Thomas Dr.Lafayette In. 47909
+80,,
+81,,
+82,765-463-6836,"506 Emilie Dr.West Lafayette, IN.  47906"
+83,,"3330 Hopkins Dr.West Lafayette, IN 47906"
+84,420-7733,"516 Main Street Suite HLafayette, IN  47901"
+85,,"1263 Arbutus Dr.Chesterton, IN 46304"
+86,,"1628 Cottonwood CircleLafayette, IN.  47905"
+87,765-764-4292," 563 S. Hwy 41Willaimsport, In. 47993"
+88,765-986-2349,"5123 N.  600 W.Williamsport, In. 47993"
+89,765-743-4469,"3342 Division Rd.West Lafayette, IN.  47906"
+90,,"1366 Clearvista Dr.Lafayette, IN 47905"
+91,,"111 Memory LaneLafayette, IN.  47905"
+92,"765.686,0511","680 WRossville, IN.  46065"
+93,463-3223,"350 Sagamore WestWest Lafyette, IN.  47906"
+94,471-4903,"1931 Windy Hill Ct.Lafayette, In.  47905"
+95,765.491.8632,"P.O. Box 4818Lafayette, IN. 47903"
+96,,"1819 Sandpiper Dr.West Lafayette, IN 47906"
+97,765-474-1043,"3500 Jo Allen Ln.Lafayette, IN 47909"
+98,,"606 Terry LaneWest Lafayette, IN. 47906"
+99,,"406 E. 3rd St.Brookston, In  47923"
+100,,
+101,,"1712 Stonegate Cir.Lafayette, IN 47909"
+102,479-1589 ?,Tony Bowlin3109 Darby Lane
+103,,"700 Bexley Rd.West Lafayette, IN.  47906"
+104,448-6556,"2624 HendersonWest Lafayette, In.  47906"
+105,,"3403 Elkart St.West Lafayette, In.  47906"
+106,449-4380,"100 S. Farabee Dr.Lafayette, IN. 47905"
+107,,"139 Suzy LaneAttica, In.  47918"
+108,,Creative Ink150 N. 36th Street
+109,,"3655 Mossy Rock Rd.Zionsville, IN.  46177"
+110,,Repair work on Craftwood doors
+111,4208282,"726 S. 9thLafayette, In.  47905"
+112,,"4000 E. 450 S.Lafayette, IN 47909"
+113,,"4000 E. 450 S.Lafayette, IN.  47909"
+114,,
+115,742-8091,"852 Shawnee Ave.Lafayette, In.  47905-1456"
+116,219-394-2523,"10463 Shannon Ln.Rensselaer, In.  47978-9779"
+117,,Doug Anderson-Main Street Apartment Project
+118,,
+119,765.477.1251, Design Alternatives- C/O Susan Benedict
+120,,"601 N. 400 W.West Lafayette, IN.  47906"
+121,,
+122,765-463-1141,"3033 GreenbriarWest Lafayette, In. 47906"
+123,714-2675,"830 Shawnee Ave.Lafayette, IN.  47905"
+124,426-4174,"509 N. 7thLafayette, In.  47901"
+125,,
+126,743-3113,"32 LimberlostWest Lafayette, In.  47906"
+127,,"54 West Main St.Rossville, In.  46065"
+128,,"3412 Klondike Rd.West Lafayette, In.  47906"
+129,497-7171,"3336 Hamilton St.West Lafayette, In.  47906"
+130,497-8923,"112 Arbour Ct.West Lafayette, In.  47906"
+131,,
+132,,
+133,497-2639,"7 Grapevine Ct.West Lafayette, In.  47906"
+134,,"8430 N. County Line Rd. ELafayette, IN 47905"
+135,447-9494,"100 S. Farabee Dr. Suite ALafayette, In.  47905"
+136,,"1102 AsplanadeLafayette, IN. 47905"
+137,,"118 Arbour Ct.West Lafayette, In. 47906"
+138,,
+139,757-329-3881,"721 Wexford Ct.Lafayette, IN.  47909"
+140,,"2655 Teal Rd. Lafayette, IN 47905"
+141,743-1435,"409 Littleton St.West Lafayette, IN.  47906"
+142,,
+143,,
+144,765-563-6616,"3965 E. 825 S.Brookston, In.  47923"
+145,,"2718 Canyon Creek DriveLafayette, IN.  47909"
+146,,"2118 Canyon Creek DriveLafayette, IN.  47909"
+147,490-2177,"3436 Ferdinand Ct.West Lafayette, In. 47906"
+148,,"5821 Prophets Rock Rd.West Lafayette, IN 47906"
+149,,Community Center
+150,,TITAN BUDGET FOR OVERSIGHT
+151,,Community Center
+152,448-1986 ext. 197,"5526 St. Rd. 26 E.Lafayette, In.  47909"
+153,448-1986 ext. 197,"56526 St. Rd. 26 E.Lafayette, In.  47905"
+154,474-2341,"3605 Meadowview Dr.Lafayette, In.   47909"
+155,,"133 N 4th St #709Lafayette, IN 47901"
+156,,"1301 State StreetLafayette, IN. 47905"
+157,,"4425 E. Penrod Dr.Monticello, IN. 47960"
+158,,"1112 Foxglove Ct.Zionsville, IN. 46077"
+159,765-490-6757,"567 Golden PlaceLafayette, IN.  47905"
+160,,"4531 E Foxmoor Ln.Lafayette, IN 47905"
+161,,
+162,,"1509 Woodland Ave.West Lafayette, IN 47906"
+163,765-7623959,24 Whitetail CircleWilliamsport In.  47993
+164,,"779 Noble Ct.West Lafayette, IN.  47906"
+165,,"919 RochesterLafayette, IN 474-6275"
+166,,"5634 Roseberry Rdge.Lafayette, IN. 47905"
+167,317-280-9839,"7130 Bluff Ridge Blvd.Indianapolis, In.  46278"
+168,,
+169,,
+170,477-6622,"3916 Kyverdale Dr.Lafayette, In.  47909"
+171,765-463-4891,"2828 Barlow StreetWest Lafayette, In.  47906"
+172,765.497.3384,2021 Klondike Rd.West Lafayette IN.  47906
+173,,
+174,,Billed to Tippman Graber
+175,,"4806 Doe Path LaneLafayette, In. 47905"
+176,317-996-3792,P.O. Box 2817309 N. Baltimore Rd.
+177,477-7075,"823 Bur Oak Ct. E.Lafayette, In.  47909"
+178,479-1349,Julie Ginn12 N. 9th St.
+179,,"3526 Canterbury DriveLafayette, IN.  47906"
+180,,"3526 Canterbury DriveLafayette, IN.  47909"
+181,385-5316,"603 N. JustusOxford, IN 47971"
+182,463-5390,"130 Colony RdWest Lafayette, IN. 47906"
+183,463-6235,"1021 Haan Rd.West Lafayette, In.  47906"
+184,,"6096 Sandwood Ln SLafayette, IN 47909"
+185,,
+186,464-1805,Green Tree3575 Senior Place
+187,,"505 Emilie Dr.West Lafayette, In.  47906"
+188,,"306 Park LaneWest Lafayette, In.  47906"
+189,,"1120 Stoneripple CircleLafayette, IN 47909"
+190,858-775-4837,"Kokomo, IN."
+191,,
+192,,
+193,765-477-7168,"1104 oak Ave.Lafayette, IN. 47905"
+194,,"4546 CormorandLafayette, IN.  47909"
+195,765-463-1571,"108 Vigo CourtWest Lafayette, In.  47906"
+196,765.404.2888,"3609  Mulberry DriveLafayette, IN.  47905"
+197,,University Farms
+198,,"9663 N. 400 E.Frankfort, In.  46041"
+199,448-9022,"1397 Cleara VistaLafayette, IN 47905"
+200,," 1824 N.16th StreetLafayette, IN.  47904"
+201,1-515-851-1157,"4305 Antiquity Ct.West Lafayette, IN.  47906"
+202,,"98 Pasadena Ct.Lafayette, In"
+203,317-902-4778,"2724 Henderson St.West Lafayette, IN.  47906"
+204,765.418.7470,"7211 E. Greenview Dr.Battleground, IN. 47920"
+205,572-2725,"5732 S. 600 W.Westpoint, In.  47992-9202"
+206,,"2724 Henderson St.West Lafayette, IN 47906"
+207,,"1411 W. 500 S.Lafayette, IN 47909"
+208,,"3575 E. Brookfield Dr.Lafayette, IN. 47909"
+209,,"3538 Senior Living PlaceWest Lafayette, IN. 47906"
+210,,
+211,430-1272,"501 Lagrange StreetWest Lafayette, In.  47906"
+212,,"2663 Jaydin DriveBattleground, IN 47920"
+213,,
+214,474-5451,"30 Thomas Ct.Lafayette, In.  47909"
+215,,"144 Seneca LaneWest Lafayette, IN.  47906"
+216,7654264479,"2716 Sleepy Hollow Dr.Lafayette, IN. 47904"
+217,317-843-1516,"4625 Royal Oak LaneCarmel, In.  46033"
+218,464-1545,
+219,,
+220,567-2014 H,"2807 E. 600 n.Battleground, In. 47920"
+221,,"901 Harvard TerraceFrankfort, IN. 46041"
+222,,
+223,,"103 Westwood DriveWest Lafayette, IN. 47906"
+224,463-3447,"3335 Crawford StreetWest Lafayette, In.  47906"
+225,463-1132,"516 CarroltonWest Lafayette, In.  47906"
+226,337-5595,"136 durkee's Run DriveLafayette, In. 47905"
+227,,
+228,,"315 E 650 NWest Lafayette, In.  47906"
+229,765.379.9353,"5860 S. 600 W.Rossville, IN.  46065"
+230,,"1619 Western Dr.West Lafayette, In.  47906"
+231,765.477.0872,"1686 Masons Ridge Ct.Lafayette, IN.  47909"
+232,,"118 Ruby Rd.Attica, In.  47918"
+233,464-2473,"728 Warrick St.West Lafayette, In.  47906"
+234,447-4663,
+235,,
+236,,"3800 Broadview Rd.West Lafayette, IN.  47906"
+237,,"4546 Cormorant Dr.Lafayette, IN 47909"
+238,217-442-3849 h,"10 LincolnshireDanville, Ill. 61832"
+239,497-0103,"3008 Wilshire Ave.West Lafayette, In.  47906"
+240,,"1721 Wilson St.Lafayette, IN.  47904"
+241,765-474-7275,"2110 S. 7thLafayette, IN.  47905-2144"
+242,,"5512 S. 600 W.Delphi, In.  46923"
+243,474-2614,"3820 Gate Rd.Lafayette, In.  47909"
+244,420-7501,"2413 Farmington PlaceLafayette, In.  47905"
+245,,"2131 N. 1025 E.Lafayette, IN.  47905"
+246,588-3528,"493 LagrangeWest Lafayette, In.  47906"
+247,,"2825 BarlowWest Lafayette, In.  47906"
+248,742-0527,"4012 Willowood DriveLafayette, In.   47905"
+249,,"2903 St. Rd. 25NLafayette, In.  47905"
+250,,"351 N 150 WPeru, In.  46970"
+251,,"929 E. JeffersonTipton, In.  46072"
+252,,"301 Ahler's DriveWest Lafayette, In.  47906"
+253,574-946-3754,"1132 S. US HWY 35Winamac, In.  46996"
+254,,IN. Chapter Treasurer
+255,765-471-2111,"3526 Osborne Lane Suite DLafayette, IN.  47909"
+256,765-427-3251,"6884 Pretty Prairie RdBattle Ground, IN 47920"
+257,765-564-2374,"125 West North St.Delphi, In. 46923"
+258,765-448-7296,Tippecanoe Mall Store2415 Sagamore Pkwy S # D11a
+259,765.491.6086,"225 N. 2nd st.Lafayette, IN.  47901"
+260,765.491-6086,"225 N. 2nd St. Apt. 4FLafayette, IN.  47909"
+261,765.654.4752,"1350 S. Rosewood placeFrankfort, IN.  46041"
+262,538-2158,"651 Cardinal CourtLafayette, In.  47909"
+263,,
+264,,"202 W 375 S.Lafayette, IN 47909"
+265,,
+266,1-765-654-6707,"359 N. Columbia St.Frankfort, In.  46041"
+267,,
+268,,
+269,,
+270,474-2016,"1002 Southland Dr. S.Lafayette, In.  47905"
+271,,"200 Gallop Dr.Lafayette, IN 47905"
+272,,
+273,219-583-4242,"3878 E. Potowatomie Dr.Monticello, In.  47960"
+274,,
+275,538-3473,"607 Russell St.West Lafayette, In.  47906"
+276,919.985.1501,"6118 S. 825 W.Delphi, IN. 46923"
+277,13175999031,"1602 Masons Ridge Ct.Lafayette, IN.  47909"
+278,,
+279,,
+280,523-2786,"10219 St. Rd. 28EClarks Hill, In.  47930-9216"
+281,765.588.6046,"4711 Insignia CourtLafayette, IN.  47909"
+282,447-7999,"409 Vermont Dr.Lafayette, In.  47905"
+283,583-4110,"9407 W. 500 N.West Lafayette, In.  47906"
+284,,
+285,,"5640 Roseberry RdgLafayette, IN.  47905"
+286,,"14289 S. 380 W.Remington, IN 47977"
+287,474-9159,"3621 Old Romney RoadLafayette, In.  47909"
+288,765.477-1919,"4307 Mayflower Dr.Lafayette, IN. 47909"
+289,765-490-3404,"4307 Mayflower Dr.Lafayette, IN. 47909"
+290,,
+291,,
+292,765-413-4913,"19 Point East Mobile Home ParkLafayette, IN 47905"
+293,447-7083,"1308 Castle Dr.Lafayettte, In.  47905"
+294,,"839 N County Line Rd ELafayette, In.  47905"
+295,,"315 E. 650 N.West Lafayette, In.  47906"
+296,,"6991 E. 375 S.Lafayette,  in.  47905"
+297,,457 S. 8th Str.Lafayette IN. 47901
+298,,"3036 Jamestown CircleLafayette, IN.  47909"
+299,,"1414 Ravinia Rd.West Lafayette, IN 47906"
+300,,"1517 Wiedeman Rd.Metamora, Il.  61548"
+301,,"P.O. Box 6187Lafayette, In.  47903"
+302,,"2541 Yeoman LnWest Lafayette, IN 47906"
+303,430-2813,"8870 E. 800 N.Lafayette, In. 47905"
+304,,
+305,,"11364N 1050WMonticello, IN 47960"
+306,,"16363 S. 1100 W.Lacross, IN.  46348"
+307,,"4014 Thomas Jefferson Rd.Lafayette, IN.  47909"
+308,497-1397,"2825 BarlowWest Lafayette, In.  47906"
+309,765-449-4833,"3845 Harper DriveLafayette, IN. 47905"
+310,,"722 Highland AveLafayette, IN.  47905"
+311,765-838-2527,"428 Carrolton Blvd.West Lafayette, In.  47906"
+312,,
+313,16153083390,"West Lafayette, IN. 47906"
+314,765,"3567 Canterbury DriveLafayette, IN. 47909"
+315,464-1990,"3308 Morgan St.West Lafayette, In. 47906"
+316,,"16 Nixon RoadBolton, Ontario  L7E1K3"
+317,,
+318,,
+319,,"1479 Lakeview Dr.Frankfort, IN. 46041"
+320,,"3900 E. 450 S.Lafayette, In.  47909"
+321,,C/O Martin Huschka3738 S. Norman St.
+322,765-793-2053,"9335 S. 1000 W.Covington, IN. 47932"
+323,,
+324,742-2577,"1103 Digby Rd.Lafayette, In.  47905-1108"
+325,,"536 Trace 5West Lafayette, IN. 47906"
+326,,
+327,446-8048,"16 Gelder Ct.Lafayette, In.  47905"
+328,,Lake cottageFlood repair
+329,765-538-2539,"8024 Kronlokken LaneLafayette, IN. 47909"
+330,,"618 Shady Creek Dr.Lafayette, IN 47905"
+331,,"4609 Morehouse Rd.West Lafayette, In.  47906"
+332,,
+333,,"7398 N. 900 E.Otterbein, In.  47970"
+334,,"222 Lincoln St.West Lafayette, In.  47906"
+335,463-9347,"3932 LedyardWest Lafayette, In.  47906"
+336,463-5963,"2225 Carberry Dr.West Lafayette, IN 47906"
+337,447-7210,"2904 Brown StreetLafayette, In.  47905"
+338,574-967-4442,"724 W Columbia StFlora, IN  46929-9215"
+339,429-4076,"3931 Shanna Jane DriveLafayette, In.  47905"
+340,426-1774,"5905 Anjolea WayLafayette, IN.  47905"
+341,1-574-664-5456,"1718 E. 600 N.Twelve Mile, IN.  46988"
+342,765-258-3177,"8477 N. County Rd. 0 EWFrankfort, In.  46041-7721"
+343,,2500 E. BroadwayLogansport In.  46947
+344,,"West Lafayette, IN 47906"
+345,,
+346,474-9518,"703 Bur Oak Ct. W.Lafayette, In.,  47909"
+347,,C/O Faith Baptist Church
+348,463-3692,"104 Mohican Ct.West Lafayette, In.  47906"
+349,,
+350,765-491-8755,"840 Emerald Ct.Lafayette, IN 47905"
+351,,
+352,,"358 E. Ohio St.Indianapolis, IN.  46204"
+353,474-7777???,"1849 Secretariat Dr.West Lafayette, In.  47906"
+354,,"2201 Sunrise Ave.Lafayette, IN.  47904"
+355,765.242.9539,"5290 West State Rd. 28Frankfort, IN. 46041"
+356,765.379.3556,"P.O. Box 285Rossville, IN. 46065"
+357,,"3637 Braddock Dr.Lafayette, IN. 47909"
+358,,"1604 Scarlett Dr.West Lafayette, In.  47906"
+359,,
+360,464-1077,"1526 Sheridan rd.West Lafayette, In.  47906"
+361,743-5636,"600 Bexley Rd.West Lafayette, In.  47906"
+362,,"410 Prion Ct.Lafayette, IN. 47909"
+363,,Indiana Chapter
+364,,
+365,,
+366,,"852 N. 350 W.West Lafayette, IN  47909"
+367,,C/0 Renee Hullinger
+368,,
+369,765-497-2682,"3056 Sullivan St.West Lafayette, IN.  47906"
+370,,
+371,765-463-0855,"104 Wheeler LaneWest Lafayette, IN.  47906"
+372,,"225 N. 2nd St. #5ALafayette, IN.  47901"
+373,491-3424,"YarmouthLafayette, IN.  47909"
+374,574-583-2975,"101 Main StreetMonticrllo,  In.  47960"
+375,,
+376,,"405 Little Rock RdLafayette, IN.  47909"
+377,,
+378,765-491-8755,"840 Emerald Ct.Lafayette, IN 47905"
+379,,"2210 RobinhoodWest Lafayette, In.  47906"
+380,,"2318 Ellen DriveLafayette, IN.  47909"
+381,,
+382,765.426.4049,"4702 Admirals Pointe Dr.Lafayette, IN. 47909-8178"
+383,,"3303 Peppermill Dr.West Lafayette, In.  47906"
+384,765.497.2235,"2940 Soldier's Home Rd.West Lafayette, IN.  47906"
+385,,C/O Dick Cypherd
+386,,"1900 Newman Rd.West Lafayette, In.  47906"
+387,589-8024,"7530 Foxtail Lane E.Lafayette, In.  47905-8600"
+388,765-497-9490,"3524 Hamilton St.West Lafayette, In.  47906"
+389,,"2205 Huron Rd.West Lafayette, IN.  48906"
+390,765.497-4505,"2209 Sandpiper Ct. S.West Lafayette, IN.  47906-4858"
+391,,"7267 N. 500 W.Earl Park, IN  47942"
+392,447-7065,"1022 Westridge CircleLafayette, In.  47905"
+393,,"8229 E 400 NLafayette, IN 47905"
+394,765-446-8814 (C) Hers,"821 Lazy LaneLafayette, IN. 47909"
+395,,"140 E. Navaho Dr.West Lafayette, In.,  47906"
+396,1-219-324-4150,"Prestige general Contracting, Inc.5464 1000 N."
+397,,"3507 Canterbury Dr.Lafayette, In.  47905"
+398,,"3618 Golden LaneLafayette, In.  47909"
+399,,"1633 S. Black Oak Ct.Lafayette, In.  47905"
+400,765-404-0827,"600 Timber Trail Dr Apt 609Lafayette, IN 47905"
+401,,"2741 N. Salbury St.West Lafayette, IN 47906"
+402,,"10 Ash CourtLafayette, In.  47905"
+403,,"RedwoodLafayette, IN.  47905"
+404,523-2344,"10223 South 400 eastLafayette, In.  479009"
+405,463-9427,Don rausch4041 State Rd. 43 N.
+406,,"7440 S. 250 E.Lafayette, In. 538-2386"
+407,,"2601 Wilshire Ave.West Lafayette, IN 47906"
+408,1.765.532.1814,"504 S. 16thLafayette, IN.  47905"
+409,,
+410,497-1763,Eric Holt1515 Union St.
+411,,
+412,1-720-331-1035,"9737 E. 800 N.Lafayette, IN.  47905"
+413,,"10967 S. Lehe Rd.Brookston, IN 47923"
+414,,"17 N 28th St.Lafayette, IN 47904"
+415,,"1332 St. Andrews DriveSchererville, In.  46375"
+416,,"408 LindbergWest Lafayette, In. 47906"
+417,765-379-3422,"P.O. Box 96Rossville, In.  46065"
+418,,
+419,,"2833 Grackle LaneWest Lafayette, In.  47906"
+420,,
+421,,"603 E. Tippeanoe Springs Ct.Monticello, IN 47960"
+422,765-379-2166,
+423,,
+424,,
+425,,"2401 Ranch Rd.West Lafayette, IN.  47906"
+426,832-247-0511,"516 Darby DriveOtterbein, IN. 47970"
+427,317.224.5448,"7834 Lydia LaneLafayette, IN. 47909"
+428,,
+429,765-202-2412,"Suite P, Crosspointe Market,1221 S Creasy Lane"
+430,,Scott B Benedict
+431,,
+432,,
+433,,"10689 N. 200 E.Monon, IN. 4795?"
+434,,"2309 Ellen Dr.Lafayette, IN 47909"
+435,477-1665,"603 WyandotteLafayette, In.  47905"
+436,,
+437,765-463-6679," 502 Haw LaneWest Lafayette, In.  47906"
+438,,
+439,,c/o Doug3805 N. Connie Dr.
+440,479-3431,"4563 Kingswood PlaceWest Lafayette, In.  47906"
+441,765-838-2338,"4038 Farmington Dr. N.Lafayette, IN.  47905"
+442,538-3121 R. Miller's,"3638 Stone Valley Dr.Lafayette, In. 47909"
+443,447-1105,"1124 Westridge CircleLafayette, IN.  47905"
+444,477-1199,Schurman Lange Mayflower2320 S. 30th Street
+445,,Schurman-Lange Mayflower2310 S. 30th St.
+446,,"2409 River Oaks Dr.Lafayette, In.  47905"
+447,765-583-4565,"8250 US Hwy 52 WWest Lafayette, In .  47906"
+448,,"5131 W. 200 S.Lafayette, In.  47909"
+449,583-4565,"8250 US Hwy 52 WWest Lafayette, In.  47906-9461"
+450,765-385-2060,"7184 S. St. Rd. 55Oxford, In.  47971"
+451,,
+452,,"720 Erie Ave.Logansport, IN.  47947"
+453,418-2860,"825 SalisburyWest Lafayette, In. 47906"
+454,,"2122 E. 350 South Ste CLafayette, In.  47909"
+455,,"1132 Ravinia Rd. West Lafayette, In.  47906"
+456,,"363 Macbain Ct.West Lafayette, IN 47906"
+457,,
+458,,P.O. Box 8One Enterprise Street
+459,,C/O: Joe CatronP.O. Box 516
+460,,"725 Warrick St.West Lafayette, IN.  47906"
+461,714-2384 Cell,"1924 Halyard LaneWest Lafayette, In.  47906"
+462,,"West Lafayette, IN.  47906"
+463,,"5268 W.Co. Rd. 700 N.Mulberry, In.  46058"
+464,,
+465,,"625 S Earl Ave Ste CLafayette, IN 47904"
+466,563-3842(Brookston),"1819 N. Royal OaksMonticello, In."
+467,765-477-1288,"1907 E. 430 S.Lafayette, IN 47909"
+468,765-543-1259,"Lebonon, IN."
+469,,Purdue UniversityBuilding Construction Technology
+470,463-7223,"130 SumacWest Lafayette, In.  47909"
+471,463-7510,"1186 CamelbackWest Lafayette, In.  47906"
+472,,"311 Duke LaneLafayette, In.  47909"
+473,479-8060,
+474,765-589-3707,"6570 E. 400 N.Lafayette, IN.  47905"
+475,,"Lafayette, IN 47904"
+476,574-686-2283,"6539 NE Rockfield Rd.Delphi, In.  46923"
+477,,"7216 Robert Ross LaneWest Lafayette, In.  47906"
+478,765-426-6929,"2552 Calumet Ct.West Lafayette, IN 47906"
+479,765-448-6299,"81 Lancelot Ct.Lafayette, IN 47905"
+480,448-9733,"4802 Doe Path LaneLafayette, In.  47905"
+481,,"8812 Fenwick Ct.Lafayette, IN.  47905"
+482,,"Otterbein, IN."
+483,,
+484,,"14104 S. 700 W.Wanatah, In.  46390"
+485,,"14311 S. 700 W.Wanatah, IN 46390-9617"
+486,,"348 Overlook Dr.West Lafayette, In.  47906"
+487,,
+488,765.430.8838,"4109 Peterburrow Rd.West Lafayette, IN.  47909"
+489,765.446.0282,"2020 Union St. #300Lafayette, IN 47904"
+490,,"6081 N. U.S. Hwy 231Crawsfordsville, In.  47933"
+491,,"3683 Chesterfield WayWest Lafayette, IN 47906"
+492,704.658.1503 his,"4344 Wea Ridge Rd.Lafayette, IN.  47909"
+493,,"1627 E. 430 S.Lafayette, In.  47909"
+494,,"7000 Indian Mound TrailBattleground, IN. 47920"
+495,866-582-5721,
+496,,"3208 High StreetLogansport, IN 46947"
+497,337-1954 Ilhan,"510 N. 26th StreetLafayette, IN. 47905"
+498,463-0663,"3344 Hamilton St.West Lafayette, In.  47906"
+499,838-1148,"1838 Alydar Dr.West Lafayette, IN.  47906"
+500,463-5119,"148 W. NavajoWest Lafayette, In.  47906"
+501,765.659.2547,"4536 N. WildwoodFrankfort, IN."
+502,,
+503,,"Rensselear, In.  47978"
+504,474-3220 W,"12407 W Tippecanoe Ranch RdDelphi, IN 46923"
+505,471-2848,"2121 Whisper Valley Dr.Lafayette, In.  47909"
+506,,
+507,477-7306,"4001 Penny Packer's Mill Rd.Lafayette, In.  47909"
+508,765-5175,"348 West Stadium Ave.West Lafayette, In.  47906"
+509,,"3637 Braddock DriveLafayette, IN. 47909"
+510,,"1950 S Wabash StWabash, IN 46992"
+511,46-3634,"333 Meridian StreetWest Lafayette, In.  47906"
+512,,
+513,,"17 Buckingham Dr.Lafayette, IN. 47909"
+514,317-698-8242,"6532 Briarwood, Pl.Zionsville, In.  46077"
+515,,
+516,,
+517,,
+518,497-7715,"2501 McShay Dr.West Lafayette, In.  47906"
+519,,"1644 Cottonwood CircleLafayette, IN. 47905"
+520,630.567.2551,"7780 Division Rd.West Lafayette, IN.  47906"
+521,765-764-4413,"5026 N. Possum Hollow Rd.Attica, In.  47918"
+522,764-4413,"5026 N. Possum Hollow Rd.Attica, In.  47918"
+523,,"           Burgess DriveWest Lafayette, IN. 47906"
+524,,
+525,447-9137,"332 South 31stLafayette, IN.  47904-3110"
+526,,Rossville/Frankfort
+527,,
+528,,
+529,,
+530,,"840 Emerald Ct.Lafayette, IN 47905"
+531,,"2205 Old Oak Dr.West Lafayette, IN 47906"
+532,477-7390,"6503 S. 200 E.Lafayette, IN. 47909"
+533,,"2602 Sunrise Ave.Lafayette, In.  47904"
+534,,
+535,,"901 Southernview Dr. NorthLafayette, IN. 47909"
+536,H317-891-0380,"1435 Touchstone Dr.Indianapolis, In.  46239"
+537,,"3127 N. 675 W.Thorntown, In.  46071"
+538,,"361 N. Woodland HeightsCrawfordsville, In.  47933"
+539,,"          Brady LaneLafayette, In."
+540,,"4720 N. 600 E.Lafayette, IN.  47905"
+541,,
+542,,"10300 W. 1500 S.Goodland, In.  47948"
+543,,"9040 Northridge LaneBattleground, In.  47920"
+544,,
+545,,
+546,,Brkaric Residence
+547,583-4550,"131 Adeway Ct.West Lafayette, In.  47909"
+548,,
+549,,
+550,426-3258,"8331 E. 900 S.Lafayette, IN.  47909"
