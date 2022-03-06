@@ -14,8 +14,11 @@ SQL
 * Yu-Lin Tai
 
 ### Dataset description
-Right now, the company provides five datasets, some of which are paper documents, and some of which are excel files. The first one is called the Task dataset. It includes the task name, the related contacting customer information, and corresponding designers responsible for this task. However, this dataset is quite messy because the task name is irregular and it is combined by the customer name and some descriptions. Redundant issues are also common since several tasks might belong to one customer, but contact information is repeatedly recorded.
-We also received a Designer dataset that includes the designer's wage, position, and private information. These two above datasets are all related to a timesheet data set. That is, it tells us which designer works on which project at a specific time period. Vendor data set is a dataset containing all information of vendors that the company once cooperated with. The Checks dataset includes the money checks that the company has signed, including checks signed for the designers and the vendors.
+The company provides five datasets, some of which are paper documents, and some of which are excel files.
+* 1. Task: Includes the task name, the related contacting customer information, and corresponding designers responsible for this task. However, this dataset is quite messy because the task name is irregular and it is combined by the customer name and some descriptions. Redundant issues are also common since several tasks might belong to one customer, but contact information is repeatedly recorded.
+* 2. Designer: Includes the designer's wage, position, and private information.
+* 3. Vendor: Contain all information of vendors that the company once cooperated with.
+* 4. Checks: Includes the money checks that the company has signed, including checks signed for the designers and the vendors.
 
 ### Data
 * Checks
