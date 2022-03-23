@@ -39,4 +39,4 @@ The company provides five datasets, some of which are paper documents, and some 
 * SQL Query
 
 ### Project presentation
-Session2Group10_ProjectPresentation.mp4
+https://www.youtube.com/watch?v=u8kzqiJws5g&feature=youtu.be
